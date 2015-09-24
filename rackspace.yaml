@@ -2,7 +2,7 @@ schema-version: 1.0.0
 application-family: Databases
 application-name: BigData
 flavor: Hadoop
-application-version: 2
+application-version: Hadoop HDP 2.3
 reach-info:
   tattoo: https://c1598c651a73f4962435-136b84baf6d25f1f72dfcc119f0175fa.ssl.cf2.rackcdn.com/bigdata-20x20.jpg
   icon-20x20: https://c1598c651a73f4962435-136b84baf6d25f1f72dfcc119f0175fa.ssl.cf2.rackcdn.com/bigdata-20x20.jpg
