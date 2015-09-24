@@ -4,7 +4,7 @@ application-name: BigData
 application-version: 2
 reach-info:
   tattoo: https://c1598c651a73f4962435-136b84baf6d25f1f72dfcc119f0175fa.ssl.cf2.rackcdn.com/bigdata-20x20.jpg
-  icon-20x20:https://c1598c651a73f4962435-136b84baf6d25f1f72dfcc119f0175fa.ssl.cf2.rackcdn.com/bigdata-20x20.jpg
+  icon-20x20: https://c1598c651a73f4962435-136b84baf6d25f1f72dfcc119f0175fa.ssl.cf2.rackcdn.com/bigdata-20x20.jpg
 abstract: |
   The Rackspace Cloud Big Data Platform provides a scalable, robust, and complete Hadoop cluster with HDP 2.3 stack.
 instructions: |
