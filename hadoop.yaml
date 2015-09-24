@@ -1,7 +1,7 @@
 heat_template_version: 2015-10-15
 
 description: |
-  ## Hadoop Cluster
+  #### Hadoop Cluster
   
   Multiple Linux servers running an
   [Rackspace Cloud Big Data](http://www.rackspace.com/en-us/cloud/big-data) cluster. All components of the HDP distribution configured in a single cluster setup.
