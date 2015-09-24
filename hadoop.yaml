@@ -5,8 +5,8 @@ description: |
   
   Multiple Linux servers running an
   [Rackspace Cloud Big Data](http://www.rackspace.com/en-us/cloud/big-data) cluster. All components of the HDP distribution configured in a single cluster setup.
-  running following components HDFS 2.6.0, YARN 2.6.0, MapReduce 2.6.0, Hive 0.14.0, Pig 0.14.0, Sqoop 1.4.5, Oozie 4.1.0, Flume 1.5.2, Storm 0.9.3, Kafka 0.8.1,
-  Zookeeper 3.4.6 and Falcon 0.6.0
+  running following components HDFS 2.7.1, YARN 2.7.1, MapReduce 2.7.1, Hive 1.2.1, Pig 0.15.0, Sqoop 1.4.6, Oozie 4.2.0, Flume 1.5.2, Storm 0.10.0, Kafka 0.8.2,
+  Zookeeper 3.4.6 and Falcon 0.6.1.
 
 parameter_groups:
 
