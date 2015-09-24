@@ -23,7 +23,6 @@ parameter_groups:
 
 parameters:
 
-  # Cluster Details
   clusterName:
     label: Cluster Name
     description: Specify a name to identify and distinguish the cluster
@@ -34,7 +33,6 @@ parameters:
       description: Must begin with a letter and can contain underscores/alphanumeric characters and must be between 5 to 50 characters.
     - length: { min : 5, max : 50 }
 
-  # Cluster login
   username:
     label: Username
     description: |
@@ -60,7 +58,6 @@ parameters:
       SSH public key.
     type: string
 
-  #Cluster Configuration
   flavor:
     label: Flavor
     type: string
