@@ -1,6 +1,7 @@
 schema-version: 1.0.0
 application-family: Databases
 application-name: BigData
+flavor: Hadoop
 application-version: 2
 reach-info:
   tattoo: https://c1598c651a73f4962435-136b84baf6d25f1f72dfcc119f0175fa.ssl.cf2.rackcdn.com/bigdata-20x20.jpg
@@ -18,8 +19,6 @@ instructions: |
   to view all the clusters.
 
 description: |
-  ## Hadoop Cluster
-  
   Multiple Linux servers running an
   [Rackspace Cloud Big Data](http://www.rackspace.com/en-us/cloud/big-data) cluster. All components of the HDP distribution configured in a single cluster setup.
   running following components HDFS 2.6.0, YARN 2.6.0, MapReduce 2.6.0, Hive 0.14.0, Pig 0.14.0, Sqoop 1.4.5, Oozie 4.1.0, Flume 1.5.2, Storm 0.9.3, Kafka 0.8.1,
