@@ -3,6 +3,9 @@ heat_template_version: 2015-10-15
 description: |
   #### Hadoop Cluster
   
+  ##### NOTE:
+  This template will not deploy to the SYD and HKG data centers.
+  
   Multiple Linux servers running an
   [Rackspace Cloud Big Data](http://www.rackspace.com/en-us/cloud/big-data) cluster. All components of the HDP distribution configured in a single cluster setup.
   running following components HDFS 2.7.1, YARN 2.7.1, MapReduce 2.7.1, Hive 1.2.1, Pig 0.15.0, Sqoop 1.4.6, Oozie 4.2.0, Flume 1.5.2, Storm 0.10.0, Kafka 0.8.2,
