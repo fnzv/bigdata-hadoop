@@ -9,6 +9,8 @@ reach-info:
 abstract: |
   The Rackspace Cloud Big Data Platform provides a scalable, robust, and complete Hadoop cluster with HDP 2.3 stack.
 instructions: |
+  #### NOTE:
+  This template will not deploy to the SYD and HKG data centers.
   #### Getting Started
   If you're new to Rackspace Cloud Big Data, the [resource](http://docs.rackspace.com/cbd/api/v1.0/cbd-getting-started-2/content/CBD_Overview.html)
   helps users to know more about it. To learn more about [Hadoop](http://hortonworks.com/hadoop/) Rackspace Bigdata provider Hortonwork more details
@@ -19,6 +21,8 @@ instructions: |
   to view all the clusters.
 
 description: |
+  **Note**: This template will not deploy to the SYD and HKG data centers.
+
   Multiple Linux servers running an
   [Rackspace Cloud Big Data](http://www.rackspace.com/en-us/cloud/big-data) cluster. All components of the HDP distribution configured in a single cluster setup.
   running following components HDFS 2.7.1, YARN 2.7.1, MapReduce 2.7.1, Hive 1.2.1, Pig 0.15.0, Sqoop 1.4.6, Oozie 4.2.0, Flume 1.5.2, Storm 0.10.0, Kafka 0.8.2,
