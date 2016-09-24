@@ -95,7 +95,7 @@ parameters:
 resources:
 
   cbd_cluster:
-    type: { get_param: type }
+    type: { get_param: tipo }
     properties:
       stackId:       HADOOP_HDP2_3
       clusterName:   { get_param: clusterName }
